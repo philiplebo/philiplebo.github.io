@@ -45,6 +45,8 @@ Projects include:
 * JavaScript
 * R
 * Arduino
+* Mandarin Chinese (beginner)
+* Spanish (intermediate)
 
 ### What I <span style="color: #be7200">study</span>
 * BBA, Management Information Systems and Finance at The University of Texas at Austin
