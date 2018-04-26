@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Philip Lebo
-email: ""
-description:
-  All about Philip Lebo
+email: philip.lebo+s@gmail.com
+description: About Philip Lebo
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://philiplebo.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://philiplebo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: philiplebo
 github_username:  philiplebo
 
