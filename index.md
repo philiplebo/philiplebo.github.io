@@ -22,18 +22,18 @@ Projects include:
 * Developed National Professional Services Practice
     * Chosen by national head of security to spearhead development of a new service capability
     * Developed contracts and presentations for sales of over $2 million in professional services
-    * Coordinated training and hiring of staff to accommodate growing needs of PwC’s Privileged Access Management practice
+    * Coordinated hiring and training of staff to meet needs of PwC’s Privileged Access Management practice
 * Analyzed Business Processes to Identify Maturity Gaps
     * Managed team to assess various organizations’ maturity in areas of governance, technology, and people 
     * Interviewed subject matter experts and stakeholders to determine current state gaps and strengths
     * Presented findings and recommendations to executive board to promote cybersecurity awareness
 * Facilitated Cybersecurity Teaching Seminars
     * Presented cybersecurity training workshops to executives and board members of Fortune 500 companies
-    * Facilitated discussion of security challenges and solutions, leading to professional services sales of over $1 million 
+    * Facilitated discussion of security challenges and solutions, leading to consulting sales of over $1 million 
 * Managed SQL Server Database to Support Enterprise Software Transformation
-    * Designed, developed, and implemented an extract, transform, and load solution to aggregate data of 180,000 users
-    * Optimized performance of a SQL Server implementation supporting an enterprise identity management solution
-    * Created and executed communications and training for deployment of a web application with 30,000 users
+    * Designed, developed, and implemented an extract, transform, and load solution for data of 180,000 users
+    * Optimized a SQL Server implementation supporting an enterprise identity management solution
+    * Created and executed communications and training for deployment of a web app with 30,000 users
 
 ### What I <span style="color: orange">create</span>
 * [Alternate Sources](https://as.philiplebo.com) - Project that finds and shows alternate sources for a given news story
