@@ -1,0 +1,22 @@
+body {
+	color: #000000;
+	background: #ffffff;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+a {
+	color: #68bee6;
+}
+a:hover {
+	color: #76a2c7;
+}
+
+.title {
+	text-align: center;
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.container {
+	top: 100px;
+	max-width: 680px;
+}
