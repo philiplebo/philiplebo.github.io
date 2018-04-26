@@ -49,8 +49,8 @@ Projects include:
 * Spanish (intermediate)
 
 ### What I <span style="color: #be7200">study</span>
-* BBA, Management Information Systems and Finance at The University of Texas at Austin (graduated 2013)
-* International study abroad program at the National University of Singapore (2011)
+* BBA, Management Information Systems and Finance at [UT Austin](utexas.edu) (graduated 2013)
+* International study abroad program at the [National University of Singapore](nus.edu.sg) (2011)
 
 ### What I <span style="color: #d381c3">enjoy</span>
 * Travel 
