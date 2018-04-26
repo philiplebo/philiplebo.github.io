@@ -5,7 +5,7 @@ title: Philip Lebo
 <div class="title" markdown="1">
 # Philip Lebo
 #### tech consultant, programmer, traveler, airplane geek
-##### [contact me](mailto:{{ site.email }})
+##### [{{ site.email }}](mailto:{{ site.email }})
 </div>
 <br>
 
@@ -49,8 +49,8 @@ Projects include:
 * Spanish (intermediate)
 
 ### What I <span style="color: #be7200">study</span>
-* BBA, Management Information Systems and Finance at The University of Texas at Austin
-* International study abroad program at the National University of Singapore
+* BBA, Management Information Systems and Finance at The University of Texas at Austin (graduated 2013)
+* International study abroad program at the National University of Singapore (2011)
 
 ### What I <span style="color: #d381c3">enjoy</span>
 * Travel 
