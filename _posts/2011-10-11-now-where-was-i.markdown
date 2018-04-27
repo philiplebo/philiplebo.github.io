@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/10/12/now-where-was-i/
 slug: now-where-was-i
 title: Now Where Was I?
 wordpress_id: 225
+category: [ blog, travel ]
 ---
 
 It’s been a month since my last post. I’m sorry about that. Needless to say, a lot has happened in the past month. I had intended to have another post up before I left for my trip to Indonesia. Trip planning got a little more intense than I expected, though, and that post never got written. I then wanted to have a post about my trip up within a few days after getting back. Obviously that didn’t happen, either. And then for the past week and a half or so I’ve been dealing with a good deal of schoolwork. Long story short, I’m still alive, I just haven’t had time to update the blog in awhile. There is a lot I want to cover, so I’m going to split everything up into multiple posts. Each one is still going to be incredibly long, though.
@@ -23,7 +24,8 @@ After three hours of sleep, I woke up around 6:00am, showered, shaved, grabbed m
 
 Our first flight was only to [Jakarta](http://en.wikipedia.org/wiki/Jakarta) from where we would board a connecting flight several hours later to Yogyakarta. Now, granted I haven’t been inside many airports in my life (aside from the 5 different airports I passed through on my way to Singapore, I’ve only been in one), but the Jakarta airport has got to be one of the worst major airports in the world. Big, confusing, dirty and hot, it certainly was an interesting few hours we had to spend while waiting for our connecting flight. After about an hour of jumping on random buses and walking in random directions, we arrived at what we hoped was our departure terminal and settled in. Here is where we had our first encounter with truly authentic Indonesia cuisine: a plate of Nasi Goreng. Essentially just a plate of fried rice, egg, chicken, and vegetables, it wasn’t anything incredibly special, but it was delicious.
 
-[caption id="attachment_217" align="alignnone" width="300" caption="The first of many plates of nasi goreng"][![](http://philiplebo.files.wordpress.com/2011/10/p9171292.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9171292.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9171292.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9171292.jpg)  
+The first of many plates of nasi goreng
 
 We killed a few more hours by playing card games and teaching each other random tidbits of our respective languages. I gave Tin a crash course in Spanish, and Dina taught me a little bit more Russian. Our flight was about an hour and a half late, which meant we had to spend more time at the miserably uncomfortable departure gate. More time to catch up on sleep, I guess.
 
@@ -45,21 +47,25 @@ Everyone and everything had told us that the best time to see Borobudur was at s
 
 It was dark. You couldn’t see much farther than a few steps in front of you, and our flashlights were puny and not much help. What you could see, though, was a stone monolith towering above the landscape. Borobudur’s presence commanded respect and reverence from all of its surroundings. It was HUGE. I can’t even imagine something like this being built in the modern day, let alone in the 9th century. How in the world did they accomplish this? The structure was built out of stones stacked on top of each other with insane precision. Tiny slots in some stones fit perfectly with small protrusions in others, and the weight of the massive walls was supported by columns that seemed far too tiny.
 
-[caption id="attachment_218" align="alignnone" width="300" caption="The side of Candi Borobudur"][![](http://philiplebo.files.wordpress.com/2011/10/p9171353.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9171353.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9171353.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9171353.jpg)  
+The side of Candi Borobudur
 
-[caption id="attachment_220" align="alignnone" width="300" caption="Borobudur is massive."][![](http://philiplebo.files.wordpress.com/2011/10/p9171386.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9171386.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9171386.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9171386.jpg)  
+Borobudur is massive.
 
 Freshman year of college I took a class on architecture. It was one of the most interesting classes I’ve taken, mostly because we spent the large part of semester studying structures just like the one that I was standing on now. In fact, that class was a large part of the reason I decided to study abroad. (UT friends: seriously, take ARC 308 with Speck. It’s incredible.) Because of that class, I consider myself to have an amateur interest in architecture, and being able to see and walk around Borobudur was like a dream come true.
 
 More amazing than the temples structural integrity, however, were the carvings. Borobudur consists of six square platforms topped by three smaller circular platforms. Each of the bottom six are adorned with statues and intricate carvings. If you start at the very bottom platform and work your way clockwise around the temple, the carvings tell the epic stories of the Buddhist faith.
 
-[caption id="attachment_219" align="alignnone" width="300" caption="Some of the reliefs along the walls. Truly impressive."][![](http://philiplebo.files.wordpress.com/2011/10/p9171363.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9171363.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9171363.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9171363.jpg)  
+Some of the reliefs along the walls. Truly impressive.
 
 It’s very hard to get a sense of just how incredible these carvings were. According to Wikipedia, there are around 2,670 panels of carvings, each one more than ten square feet in area. And each one was carved by hand. The amount of work that had to have gone into building this temple is immeasurable.
 
 Atop the square platforms, at the end of the narrative carvings, stand three circular platforms decorated with many stupas. A stupa is a hill-shaped statue that were, in the case of Borobudur, built with heavy stones arranged in an intricate (everything about this place is intricate) pattern. Inside each of these stupas is a statue of Buddha.
 
-[caption id="attachment_214" align="alignnone" width="300" caption="A few of the stupas. The one in the foreground is missing the top half, allowing visitors to see the statue of Buddha placed inside."][![](http://philiplebo.files.wordpress.com/2011/10/img_2587.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_2587.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_2587.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_2587.jpg)  
+A few of the stupas. The one in the foreground is missing the top half, allowing visitors to see the statue of Buddha placed inside.
 
 Unfortunately we were not allowed to go to the top three levels of the temple because of ongoing repairs from the damage caused by a volcano eruption less than a year ago. Mount Merapi, one of the most dangerous and active volcanoes in the world, is less than 20 miles from the temple complex.
 
@@ -73,25 +79,30 @@ It was only eight in the morning at this point, so we retreated to the hotel and
 
 Our first stop was [Mendut](http://en.wikipedia.org/wiki/Mendut), a much smaller Buddhist temple than Borobudur, but just as impressive. However, Mendut was plagued with a row of shops with owners that would follow you around barking at you to buy their cheap souvenirs. Annoying.
 
-[caption id="attachment_224" align="alignnone" width="300" caption="Candi Mendut"][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0232.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_0232.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0232.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0232.jpg)  
+Candi Mendut
 
 After about half an hour at Mendut we hopped back into the car and headed to the sultan’s palace in Yogyakarta. It was different from the other palaces I have seen, mostly because this one is apparently still used for the region’s governmental activities. There were still a lot of displays of ancient wares, artwork, and icons of Javanese culture. Unfortunately all of the descriptions were in Indonesian and we decided to be cheap and not buy a guide, so it was difficult to understand what most of the stuff was. We were able to catch a traditional Javanese dance performance, though.
 
 Not far from the sultan’s main palace was the sultan’s “water palace”, used in ancient times as a place for the sultan and his family to bathe in naturally occurring springs. We found a tour guide for the water palace and he quickly showed us around the place. It was interesting, but the water palace itself looked as if the local authorities had tried to restore it by filling it with modern tiles and piping systems, but then abandoned it. The structure had lost its ancient and authentic look, trading it for a slummy, run-down appearance. Unfortunate, considering its history.
 
-[caption id="attachment_221" align="alignnone" width="300" caption="The water palace"][![](http://philiplebo.files.wordpress.com/2011/10/p9181495.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9181495.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9181495.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9181495.jpg)  
+The water palace
 
 We left the water palace and continued our whirlwind tour of Yogyakarta by heading to [Candi Prambanan](http://en.wikipedia.org/wiki/Prambanan). Prambanan, like Borobudur, is a massive temple complex and is one of the main reasons we came to Yogyakarta in the first place.
 
 Prambanan has a curiously similar history to Borobudur, despite being a Hindu temple rather than a Buddhist temple. Built around the same time as Borobudur, Prambanan was also abandoned early in its history, most likely due to nearby Mount Merapi’s volcanic action, and was lost to the world until the British stumbled across it while searching for Borobudur.
 
-[caption id="attachment_223" align="alignnone" width="300" caption="Candi Prambanan"][![](http://philiplebo.files.wordpress.com/2011/10/p9181576.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9181576.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9181576.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9181576.jpg)  
+Candi Prambanan
 
-[caption id="attachment_228" align="alignnone" width="300" caption="We were here."][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0329.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_0329.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0329.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0329.jpg)  
+We were here.
 
 As incredible as Borobudur was, there was something about Prambanan that made it many times more amazing to me. It was just as intricate and detailed, had just as impressive architecture and history, and if the surrounding ruins are included, was much bigger. But something about it, it may have been sleep-induced hysteria or something else, I don’t know what, but something about it made my time there almost surreal. At the risk of sounding a little crazy, walking around Prambanan was the calmest and most peaceful experience I’ve had in a very, very long time.
 
-[caption id="attachment_229" align="alignnone" width="225" caption="The central tower at Prambanan, a temple to Shiva, as viewed from the main entrance. This tower is flanked by two smaller temples to Brahma and Vishnu."][![](http://philiplebo.files.wordpress.com/2011/10/img_26941.jpg?w=225)](http://philiplebo.files.wordpress.com/2011/10/img_26941.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_26941.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2011/10/img_26941.jpg)  
+The central tower at Prambanan, a temple to Shiva, as viewed from the main entrance. This tower is flanked by two smaller temples to Brahma and Vishnu.
 
 I had a funny little run-in with some local tourists while squeezing through a small doorway in Prambanan. I was trapped alone in a small room inside the temple, and a group of Indonesians had gathered at the entrance to see inside. I tried to move through them, but one of them tapped me on the shoulder. I turned to see who it was, and as I looked around I noticed that every single one of them was staring at me. The man who tapped me was glaring at me with a huge grin and had his hand outstretched towards me. Not one to ever turn down a handshake, I gave him a friendly shake and a broad smile.
 
@@ -101,7 +112,8 @@ I suppose white people are a relative rarity in Indonesia. Our guide explained t
 
 We made our way out of Prambanan and decided to hurry to Mount Merapi to watch the sun set. [Mount Merapi](http://en.wikipedia.org/wiki/Mount_Merapi) erupted only a year ago and once we got a little closer to the observation point it was very apparent how serious such eruptions were. Volcanic ash covered nearly everything. At the observation point were small benches and swing sets, each caked in a decent coat of ash. It was again too cloudy to really see the sunset or even the peak of Merapi, but from our cliff side vantage point we were able to look down in to the valley surrounding the volcano. At first we saw what we thought was a river, but quickly realized it was actually a river of ash. Ash was literally everywhere.
 
-[caption id="attachment_212" align="alignnone" width="300" caption="Goofing off at Merapi. That's the volcano behind me, shrouded in the clouds."][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0440.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_0440.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0440.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0440.jpg)  
+Goofing off at Merapi. That's the volcano behind me, shrouded in the clouds.
 
 From Merapi we headed back to town to eat dinner before hopping on an overnight train to the other side of Java. While wandering through a small alley, we just happened to run into another group of students from Singapore! It wasn’t exactly unexpected, as we knew a lot of people were heading in the same direction we were (a few people had asked for my help to plan their trip and were actually following the exact same route I was on), but it’s still always nice to run into friends when away from home.
 

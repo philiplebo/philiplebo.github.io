@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/08/11/getting-situated/
 slug: getting-situated
 title: Getting Situated
 wordpress_id: 55
+category: [ blog, travel ]
 ---
 
 
@@ -17,23 +18,30 @@ _I have to apologize for my terrible writing skills and complete disregard of g
 
 University Town… how do I describe it? UTown is a brand new complex next to the university campus. It includes several residence buildings, several activity centers, several places to eat, and a whole lot more. It opened the week we moved in, making us the first people to ever live here, and only about half of it is complete. The complex itself is bigger than the entire Forty Acres, and the buildings are massive. Each residence hall (there are currently four, with two more under construction) is about as big as Jester Dormitory at UT. The complex is like something from the future. Everything has an ultra modern style, all of the door locks are RFID controlled, and there is more study/activity space than you can imagine. I live in the Graduate Residences along with hundreds of other exchange students.
 
-[caption id="attachment_58" align="alignnone" width="300" caption="The entrance to UTown plaza"][![](http://philiplebo.files.wordpress.com/2011/08/img_16391.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_16391.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_16391.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_16391.jpg)  
+The entrance to UTown plaza
 
-[caption id="attachment_59" align="alignnone" width="300" caption="The tower where I live"][![](http://philiplebo.files.wordpress.com/2011/08/img_1640.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1640.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1640.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1640.jpg)  
+The tower where I live
 
-[caption id="attachment_60" align="alignnone" width="300" caption="The lawn outside"][![](http://philiplebo.files.wordpress.com/2011/08/img_1642.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1642.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1642.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1642.jpg)  
+The lawn outside
 
-[caption id="attachment_64" align="alignnone" width="300" caption="Common living area in our apartment"][![](http://philiplebo.files.wordpress.com/2011/08/img_16491.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_16491.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_16491.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_16491.jpg)  
+Common living area in our apartment
 
-[caption id="attachment_65" align="alignnone" width="225" caption="My brand new room"][![](http://philiplebo.files.wordpress.com/2011/08/img_16531-e1312973247687.jpg?w=225)](http://philiplebo.files.wordpress.com/2011/08/img_16531-e1312973247687.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_16531-e1312973247687.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2011/08/img_16531-e1312973247687.jpg)  
+My brand new room
 
 The pictures of my apartment do not do it justice. It is, without a doubt, one of the nicest places I will live in for the next several years. And it is only costing about $2000 USD to live here for the entire semester. Unfortunately, the apartment doesn’t have air con, but it has plenty of windows and fans. It is comfortable as long as the windows stay open and there is good circulation.
 
 After hanging around my apartment for a bit, Judy and I headed to an event for exchange students called The Amazing Race. It was basically a scavenger hunt around campus, but a lot more fun because we got to meet tons of other exchange students. Meeting people here is ridiculously easy. All it takes is a simple “Hi! I’m Philip from Texas, where are you from?” and you become instant friends. This event is where we first met Wonchi from Connecticut, Kelly from Vancouver, and many many others. (Keep track of the names! They’re going to be sticking around.)
 
-[caption id="attachment_78" align="alignnone" width="300" caption="Tin getting his caligraphy on"][![](http://philiplebo.files.wordpress.com/2011/08/img_16802.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_16802.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_16802.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_16802.jpg)  
+Tin getting his caligraphy on
 
-[caption id="attachment_79" align="alignnone" width="300" caption="Dancing to Jai Ho"][![](http://philiplebo.files.wordpress.com/2011/08/img_16902.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_16902.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_16902.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_16902.jpg)  
+Dancing to Jai Ho
 
 Towards the end of the event, the facilitators gave everyone gift bags with small things like water bottles, brochures, and a map of the campus. Written on the bag said “Exchange Program 2008” on it. Weird. It also included a can of “Mackerel in Tomato Sauce.” We asked the locals to see if maybe it was some sort of S’porean dish or something. It wasn’t, and they had no idea why it was given to everyone. Weirder.
 

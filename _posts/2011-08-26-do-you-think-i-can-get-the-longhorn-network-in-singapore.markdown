@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/08/26/do-you-think-i-can-get-the-lon
 slug: do-you-think-i-can-get-the-longhorn-network-in-singapore
 title: Do you think I can get the Longhorn Network in Singapore?
 wordpress_id: 144
+category: [ blog, travel ]
 ---
 
 There are a lot of things I should be doing right now instead of blogging. Packing, studying, writing thank you letters to scholarship donors, laundry… but I digress. I want to blog. The problem is, I don’t really know what to blog about. There hasn’t been a whole lot going on this week. Last week was mostly full of me going in and out of department offices begging people to give me classes. It all worked out in the end, but most of the stuff I did isn’t worth blogging about. So instead I’m just going to type and see what comes out.
@@ -19,13 +20,16 @@ Anyway, meeting up with all of those Longhorns was a blast. Here I am, thousands
 
 The next day, George took us out for lunch at dim sum restaurant at the top of one of the tallest buildings in Singapore. That was amazing. The food was great, the view was stunning, and again, it was awesome to meet more fellow Longhorns. After lunch we toured downtown a little bit. We saw the Marina Bay Sands Casino and even went up to the skypark at the top (it’s a huge park and swimming pool on a platform held up by three skyscrapers). Unfortunately we couldn’t really get any good pictures of the view because of a private event being held.
 
-[caption id="attachment_145" align="alignnone" width="300" caption="Dim sum lunch"][![](http://philiplebo.files.wordpress.com/2011/08/img_20110813_141700.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_20110813_141700.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_20110813_141700.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_20110813_141700.jpg)  
+Dim sum lunch
 
-[caption id="attachment_146" align="alignnone" width="300" caption="The view during lunch"][![](http://philiplebo.files.wordpress.com/2011/08/img_20110813_145403.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_20110813_145403.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_20110813_145403.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_20110813_145403.jpg)  
+The view during lunch
 
 We also went to 1-Altitude, a lounge on the roof of the tallest (or second tallest, Wikipedia isn’t sure) skyscraper in Singapore. Now **that** was a view. We hung out on the roof for awhile and watched the sun set before grabbing dinner.
 
-[caption id="attachment_147" align="alignnone" width="225" caption="Watching the sunset from one of the tallest buildings in Singapore"][![](http://philiplebo.files.wordpress.com/2011/08/img_20110813_193213.jpg?w=225)](http://philiplebo.files.wordpress.com/2011/08/img_20110813_193213.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_20110813_193213.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2011/08/img_20110813_193213.jpg)  
+Watching the sunset from one of the tallest buildings in Singapore
 
 I had to say my goodbyes to George and a few of the other Longhorns after dinner because they were heading on a backpacking trip through Indonesia before flying back to Texas for school. It was a weird goodbye, knowing that they were going back to my home while I was staying here in theirs, but it was nice to know that when I return home, we’ll have the chance to meet back up.
 
@@ -55,7 +59,8 @@ I went on a night safari a few nights ago. I saw lions, tigers, leopards, bats, 
 
 
 
-[caption id="" align="alignnone" width="483" caption="A hyena"]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/307878_10150773515320545_617290544_20037673_6096995_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/307878_10150773515320545_617290544_20037673_6096995_n.jpg)  
+A hyena
 
 My cell phone is all kinds of messed up. I don’t know if the humidity fried some circuits or if an accidental fall down a staircase did it (don't ask), but my touchscreen sometimes decides to just not work. The left click button on my laptop also broke this week. I’ve needed a new laptop anyway, so I began looking for a new one. I’ve always heard that electronics are cheaper in Asia, so I was eager to find out what kind of deals I could get here.
 
@@ -69,7 +74,8 @@ And good luck to everyone back home starting school today! It's about time you l
 
 Last night I went to a party on the helipad of a skyscraper. Yes, a helipad, 230 meters high, with nothing between me and the sky. It was awesome.
 
-[caption id="" align="alignnone" width="483" caption="View from the helipad"]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/321213_10150776752945545_617290544_20075074_6721151_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/321213_10150776752945545_617290544_20075074_6721151_n.jpg)  
+View from the helipad
 
 I’m going back to Malaysia this weekend (actually I’m leaving in 50 minutes… I really need to get off the computer. This time I’m going to Malacca, a city sometimes called the cultural capital of Malaysia. It should be a great opportunity to experience some of the culture of Malaysia that I wasn’t able to see on the Tioman trip.
 

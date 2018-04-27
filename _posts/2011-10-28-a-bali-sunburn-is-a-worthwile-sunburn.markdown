@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/10/29/a-bali-sunburn-is-a-worthwile-
 slug: a-bali-sunburn-is-a-worthwile-sunburn
 title: A Bali Sunburn is a Worthwile Sunburn
 wordpress_id: 271
+category: [ blog, travel ]
 ---
 
 _This is the third (and final) installment of the tales of my trip to Indonesia. It’s been more than a month in the works. It’s quite long because it covers the longest portion of the trip. There are a lot of other things that have happened in the past month that I’ve been dying to write about on my blog as well, but I feel like I can’t talk about those things without getting Indonesia out of the way first, so I apologize if it feels a little rushed. Now, without further adieu: Bali._
@@ -23,7 +24,8 @@ We woke up the next morning around 7am. We had to be at the dive shop early, so 
 
 We were heading to [Menjangan Island](http://en.wikipedia.org/wiki/Menjangan_Island), a small national park located not far off the northern coast of Bali. On the ride out there we got to know our fellow snorkelers a bit better. On the boat with us was a couple from Colorado that used to live in Austin. She told me that Ubud (a city in Bali we planned to travel to later) was a lot like Austin, an interesting claim. At one point, the dive master on our boat stopped the boat in the middle of the ocean and exclaimed “alright, this is the place, hop off!” After some protest that this couldn’t be the right place, one of the guys on our boat jumped into the water. That was when the dive master shouted “Hey! I was just kidding, get back in the boat before you get left behind!” Funny guy.
 
-[caption id="attachment_282" align="alignnone" width="300" caption="Our boat"][![](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-5.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-5.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-5.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-5.jpg)  
+Our boat
 
 It wasn’t long before we got to the island. Surrounding Menjangan are some of the best preserved and prettiest coral reefs in the area. Equipped with snorkels, dive goggles, and flippers, we hopped into the clear-blue water and hoped to be amazed. We were not disappointed.
 
@@ -35,7 +37,8 @@ We dove under the reefs, we swam through the middle of formations, we saw things
 
 Swimming for four hours had taken its toll on everyone, and it showed. The ride back to the pier was much quieter than the ride out. Most people were sleeping, or were at least trying to get some sleep in between the waves splashing the boat every now and then. I was sitting up on the bow of the boat, gazing at one of the most beautiful sights I have ever laid my eyes upon. Spread in front of me was a vast, deep blue ocean. The bluest I’ve ever seen. On one side was an island marked with caves, small temples, and recent memories of exotic fish and coral reef. On the other side, a trio of massive volcanoes dominated the horizon. I wish I had pictures. The boat ride back to shore after snorkeling is definitely in my top five favorite experiences from the entire Indonesia trip.
 
-[caption id="attachment_283" align="alignnone" width="300" caption="A boat, an endless expanse of blue water, a beautiful beach, a massive volcano, and amazing friends to share it all with. Happiness."][![](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-20.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-20.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-20.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/sept-21-24-bali-ubudlegian-20.jpg)  
+A boat, an endless expanse of blue water, a beautiful beach, a massive volcano, and amazing friends to share it all with. Happiness.
 
 Once we got back to shore we rinsed off all of the saltwater and headed back to our hotel. It wasn’t long before we all started realizing that in our rush out the door that morning, we had overlooked a vitally important fact: sunscreen is not meant to last for four straight hours in the sun. Every inch of my body was burned to a crisp. My face hurt, my arms itched, my back was screaming. It even hurt to wash my hair because my scalp was the color of a fire truck. We had unintentionally agreed to trade four hours of amazing views, wildlife, and fun for the worst sunburn I have ever had.
 
@@ -69,9 +72,11 @@ _Before going any further, I want to say to anyone that has seen the movie Eat, 
 
 _As a result, the city has already seen a large spike in tourism. The guidebooks even warn us that the phrase “that damn book” has become common with the locals when referring to the effect on the local area that the tourism has caused._
 
-[caption id="attachment_281" align="alignnone" width="225" caption="A back alley in Ubud"][![](http://philiplebo.files.wordpress.com/2011/10/img_20110923_134708.jpg?w=225)](http://philiplebo.files.wordpress.com/2011/10/img_20110923_134708.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_20110923_134708.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2011/10/img_20110923_134708.jpg)  
+A back alley in Ubud
 
-[caption id="attachment_280" align="alignnone" width="300" caption="A field in Ubud"][![](http://philiplebo.files.wordpress.com/2011/10/img_20110922_082540.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_20110922_082540.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_20110922_082540.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_20110922_082540.jpg)  
+A field in Ubud
 
 -
 
@@ -83,9 +88,11 @@ Breakfast was simple and good. Fruit, mostly, but the coffee is what I really ne
 
 Nyoman, along with his son and daughter, used motorcycles to give all of us rides to the festival. It was a cremation festival. Essentially, the Balinese people construct these enormous statues of various animals, and leave the inside of them hollow. Inside, the remains of the deceased are placed alongside various gifts and offerings. After a lengthy celebration and ceremony, these figures are lit on fire and there is much fanfare as they burn.
 
-[caption id="attachment_284" align="alignnone" width="300" caption="One of the festival figurines being brought to the festival"][![](http://philiplebo.files.wordpress.com/2011/10/p9211818.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9211818.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9211818.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9211818.jpg)  
+One of the festival figurines being brought to the festival
 
-[caption id="attachment_274" align="alignnone" width="300" caption="At the festival. The white-capped tent things are the cremation stands."][![](http://philiplebo.files.wordpress.com/2011/10/img_0751.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_0751.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_0751.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_0751.jpg)  
+At the festival. The white-capped tent things are the cremation stands.
 
 Before the festival was over, the group decided to split up and head to different areas around the town. I flew solo for a little bit, but it wasn’t long before I met a traveler from Norway and we hung out for a bit. As we were walking down one of the many narrow streets of Ubud, Nyoman unexpectedly shows up on his motorcycle, telling us he had come to give us rides back to the center of town. Seriously, this guy is too good to be true.
 
@@ -109,13 +116,15 @@ Eventually I was able to reunite with Cynthia and Alison and we set off to explo
 
 I think the name “monkey forest” is a little self-explanatory, but in Ubud there is a small sanctuary of trees and temples that has been entirely overrun by a large group of monkeys. Visitors are able to walk through the forest along stone pathways, and park staff is around every at couple of turns to make sure you don’t try and harm the monkeys (or so the monkeys don’t harm you). The monkeys literally just run around everywhere. There are no cages and no designated areas for monkeys or for people. As you are walking along the path, all around you are monkeys playing, fighting, eating, and sleeping. You can walk within inches of them, play with them, and touch them (though I recommend not touching them. One of the monkeys almost ripped my hand off after I lightly grazed it.).
 
-[caption id="attachment_277" align="alignnone" width="225" caption="The cutest baby monkey I've ever seen"][![](http://philiplebo.files.wordpress.com/2011/10/img_7635-e1319836940585.jpg?w=225)](http://philiplebo.files.wordpress.com/2011/10/img_7635.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7635-e1319836940585.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2011/10/img_7635.jpg)  
+The cutest baby monkey I've ever seen
 
 Monkeys are hilariously intelligent. I saw one monkey jump onto the back of an unsuspecting tourist, steal his water bottle, and then run away to try and open it. Eventually he was able to twist off the cap and was gulping down fresh water until another bigger monkey came and stole the bottle from him. Another monkey had learned that some of the humans were scared of it, and was entertaining itself by hiding behind a rock and jumping out whenever a group of tourists would walk by. I could have sworn that it was laughing every time one of the tourists flinched.
 
 And then I had a monkey climb on me! He kind of just lounged on top of my head.
 
-[caption id="attachment_273" align="alignnone" width="300" caption="A monkey on my head"][![](http://philiplebo.files.wordpress.com/2011/10/img_0595.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_0595.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_0595.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_0595.jpg)  
+A monkey on my head
 
 After the monkey forest, our next stop was the Ubud Market. It was basically just a bunch of small stalls of cheap, mass-produced trinkets and souvenirs where the shop owners tried desperately to convince you to buy things. I wasn’t interested in anything they were selling, but it was actually a lot of fun to haggle prices. I found that I was actually quite good at it. The trick to is act completely uninterested, and when they offer you a price (and the first few prices they give you are always around ten times the amount they will actually accept), just walk away and keep walking. Eventually you will hear “Fine, fine! 10,000!” and you’ll have yourself a deal.
 
@@ -131,7 +140,8 @@ What? I didn’t understand. I _still_ don’t understand.
 
 When it was time to leave, Nyoman’s wife handed me the bill for everything. Nothing was on it except for the agreed-upon price for the two rooms. I paid it, but not without slipping in a few extra hundred thousand rupiah for all of their trouble. They deserved it.
 
-[caption id="attachment_275" align="alignnone" width="300" caption="Nyoman and one of his grandchildren. An awesome, awesome guy."][![](http://philiplebo.files.wordpress.com/2011/10/img_1009.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_1009.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_1009.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_1009.jpg)  
+Nyoman and one of his grandchildren. An awesome, awesome guy.
 
 **Much Needed Rest**
 
@@ -139,15 +149,18 @@ We arrived in [Kuta](http://en.wikipedia.org/wiki/Kuta) later that day and spent
 
 The next morning we went straight to the beach. The entire day was filled with just relaxing on the beach and playing in the waves. I rented a body board and swam out into the surf for awhile. The waves at Kuta beach were bigger than any of the waves I have ever seen, so it was a lot of fun. Tin got himself a surfboard and spent quite awhile on it. He actually got really good at it, and was out surfing some of the bigger swells by the time the sun was setting.
 
-[caption id="attachment_278" align="alignnone" width="300" caption="They buried me in the sand!"][![](http://philiplebo.files.wordpress.com/2011/10/img_7842.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_7842.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7842.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_7842.jpg)  
+They buried me in the sand!
 
 Ah, and by the way, the sunset on Bali is amazing.
 
-[caption id="attachment_272" align="alignnone" width="300" caption="Amazing."][![](http://philiplebo.files.wordpress.com/2011/10/dsc_1038.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_1038.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_1038.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_1038.jpg)  
+Amazing.
 
 A relaxing day on the beach is exactly what we all needed after a hectic 6 days of travel across Indonesia. I can’t think of a more perfect way to end the trip.
 
-[caption id="attachment_285" align="alignnone" width="200" caption="Much needed rest"][![](http://philiplebo.files.wordpress.com/2011/10/dsc_1090-e1319837488994.jpg?w=200)](http://philiplebo.files.wordpress.com/2011/10/dsc_1090.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_1090-e1319837488994.jpg){:width="200px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_1090.jpg)  
+Much needed rest
 
 Our flight back to Singapore was at 6:00am the next day, which meant we needed to be at the airport even earlier. I didn’t even bother sleeping that night. We caught a ride to the airport and sleepily waited in line to check in. Many students from our university were on the same flight, so we exchanged stories from the past week. It wasn’t long before we were sleeping on the plane and then drowsily making our way through Singapore customs.
 

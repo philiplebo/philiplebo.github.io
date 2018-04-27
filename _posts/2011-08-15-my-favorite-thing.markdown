@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/08/16/my-favorite-thing/
 slug: my-favorite-thing
 title: My Favorite Thing
 wordpress_id: 138
+category: [ blog, travel ]
 ---
 
 Last night, someone asked me what my favorite thing about Singapore is so far. What a hard question, y’know? There are so many amazing things here. So many things I’ve dreamed my whole life about being able to do and see. I could go on and on (and I have) about the trips to gorgeous beaches and the amazing views from the roofs of skyscrapers. I could talk for days about the weather, the trains, the malls, and the buildings. The food, the city, the culture, the traveling… the past few weeks have been some of the best weeks of my life. I love it all.

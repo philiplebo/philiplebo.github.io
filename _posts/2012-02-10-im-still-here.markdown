@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2012/02/10/im-still-here/
 slug: im-still-here
 title: I'm Still Here
 wordpress_id: 324
+category: [ blog, travel ]
 ---
 
 Hi again. I know it's been awhile... it's been over two months since my last post. I'm back in Texas now, and it might be somewhat silly to be still updating my travel blog, but I'm doing it anyway. I'm still updating it partly because I don't really like the way I left things in my last post, partly because I like to use this blog as my own personal way of thinking back on my semester abroad, and partly because some part of me hopes that somebody still wants to hear my story.
@@ -19,7 +20,8 @@ It started just like any of our other trips: with semi-panic and confusion betwe
 
 Oh, and did I mention that I was sick? I was sick. Really sick. What first started as an annoying cough (and it was annoying... Judy yelled at me constantly because of it) turned into a pretty bad chest infection. The Thursday before our trip, after it was clear that it would not go away on its own, I went to the health clinic. As soon as I stepped up to the reception desk they gave me that “oh you look like hell” look. It only took about 15 minutes to see a doctor and get prescribed a boatload of medicine, and I got to wear this awesome mask while I waited! I felt like I was being quarantined.
 
-[caption id="attachment_325" align="alignnone" width="225" caption="My awesome mask"][![](http://philiplebo.files.wordpress.com/2012/02/img_20111111_115001.jpg?w=225)](http://philiplebo.files.wordpress.com/2012/02/img_20111111_115001.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/img_20111111_115001.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2012/02/img_20111111_115001.jpg)  
+My awesome mask
 
 I came very close to bailing on the trip, but the medicine started kicking in the night before our flight out. I still had to finish the course of antibiotics (drug resistance and all that...), but that could be done while I was in Thailand. The only downside: those antibiotics made everything taste like metal. Bummer for the Thai food.
 
@@ -31,7 +33,8 @@ After a bumpy ride in a beat up, rusty van (I think by this point we were all ac
 
 Riding elephants was nothing special. We had a good time, I suppose. We rode through some rivers, up some hills, and eventually ended up at a small waterfall. I named the elephant I was riding on "Ralph" despite Kelly's demands that "Ralph" was not an appropriate name for a girl. She was definitely a Ralph, though.
 
-[caption id="attachment_331" align="alignnone" width="300" caption="Me, Kelly, and Ralph"][![](http://philiplebo.files.wordpress.com/2012/02/376442_10150970208625545_617290544_21412138_966602020_n.jpg?w=300)](http://philiplebo.files.wordpress.com/2012/02/376442_10150970208625545_617290544_21412138_966602020_n.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/376442_10150970208625545_617290544_21412138_966602020_n.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2012/02/376442_10150970208625545_617290544_21412138_966602020_n.jpg)  
+Me, Kelly, and Ralph
 
 Riding elephants seems to be quite a big deal in Southeast Asia. It's a big tourist attraction, and many people see it as one of those "must-do" things while in Thailand or Indonesia. If someone were to ask for my opinion, though, I would say to avoid it. The entire thing is just degrading to the animals, even when it appears that they are treated fairly. Even at the place we were at, where the elephants seemed to be treated alright, I think all of us ended up walking away with a bad taste in our mouths. It wasn’t worth it in the slightest.
 
@@ -39,13 +42,16 @@ After we were done with the elephants it was getting quite dark, and as we found
 
 The next day we signed up to go on a tour around the man-made lake located within the national park. Our day started with yet another long drive out to the lake, but this time our group was accompanied by a Canadian named Dan. It was nice to have someone to talk to during the drive, and before I knew it we were at the lake. The lake was created many decades ago by damming one of the major rivers that runs through southern Thailand. At first, the lake was nothing special, but once we hopped into a small long-tail boat and were heading towards the middle of the lake that quickly changed. Seeing the lake and the surrounding mountains was another one of those moments that took my breath away. You know the opening scene of the first Jurassic Park movie? The one where they fly the airplane through the mountains? Or the scene in Avatar where they fly through the floating mountains? That's as close as I can get to describing what the lake was like. Giant mountains, giant masses of rock, some with trees clinging to the sides, looked as if they were weightlessly floating on top of the water as we cruised around them.
 
-[caption id="attachment_328" align="alignnone" width="300" caption="Khao Sok on a cloudy day"][![](http://philiplebo.files.wordpress.com/2012/02/314579_10150383079907546_539757545_8439440_30774366_n.jpg?w=300)](http://philiplebo.files.wordpress.com/2012/02/314579_10150383079907546_539757545_8439440_30774366_n.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/314579_10150383079907546_539757545_8439440_30774366_n.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2012/02/314579_10150383079907546_539757545_8439440_30774366_n.jpg)  
+Khao Sok on a cloudy day
 
 We took the boat out to a small secluded cove that our tour guide said was good for swimming. The water felt fantastic, although it was a little strange whenever I looked down into the abyss of dark blue water. I had no idea how deep the water was and who knows what kind of creatures were staring right back up at me. There was a small outcropping on the side of the cove where we took turns climbing up and jumping off. Cue silly pictures.
 
-[caption id="attachment_326" align="alignnone" width="300" caption="I don't know"][![](http://philiplebo.files.wordpress.com/2012/02/310482_10150383074102546_539757545_8439397_1512829152_n.jpg?w=300)](http://philiplebo.files.wordpress.com/2012/02/310482_10150383074102546_539757545_8439397_1512829152_n.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/310482_10150383074102546_539757545_8439397_1512829152_n.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2012/02/310482_10150383074102546_539757545_8439397_1512829152_n.jpg)  
+I don't know
 
-[caption id="attachment_327" align="alignnone" width="300" caption="The gang"][![](http://philiplebo.files.wordpress.com/2012/02/313284_10150394523882182_666082181_8696189_1969284036_n.jpg?w=300)](http://philiplebo.files.wordpress.com/2012/02/313284_10150394523882182_666082181_8696189_1969284036_n.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/313284_10150394523882182_666082181_8696189_1969284036_n.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2012/02/313284_10150394523882182_666082181_8696189_1969284036_n.jpg)  
+The gang
 
 After swimming for awhile, our boat driver took us farther up the river to a small group of huts floating in the middle of another, slightly larger cove. We kayaked around the lake for a bit while lunch was prepared, then chowed down on some of the most delicious green curry, pineapples, and watermelon I've ever tasted.
 
@@ -67,13 +73,15 @@ By the way, that was the first plate of actual pad thai that we had in Thailand.
 
 The next day Champ took us out on a long-tail boat for a snorkeling expedition around Ko Phi Phi Le, a smaller island nearby. We made a quick pitstop at a small beach that monkeys had apparently taken over. Tricky fellas kept trying to steal water bottles and food from everyone that was there. We didn't stick around long, though, because we had all seen plenty of monkeys on our other adventures through Southeast Asia. Pretty soon we were standing on Maya Beach, a strip of sand in the middle of a cove where the Leonardo DiCaprio movie _The Beach_ was filmed. It was a gorgeous place, or it used to be, before it became one of the main tourist attractions in the area. 30-40 boats and hundreds of people stood around on the beach as if there was something marvelous about it. I still find it strange that it's so popular, considering the fact that it seems most people don't even know about the movie until some tour guide tells you about it.
 
-[caption id="attachment_330" align="alignnone" width="300" caption="Cliche Ko Phi Phi pic"][![](http://philiplebo.files.wordpress.com/2012/02/374066_10150394525352182_666082181_8696210_392497188_n.jpg?w=300)](http://philiplebo.files.wordpress.com/2012/02/374066_10150394525352182_666082181_8696210_392497188_n.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/374066_10150394525352182_666082181_8696210_392497188_n.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2012/02/374066_10150394525352182_666082181_8696210_392497188_n.jpg)  
+Cliche Ko Phi Phi pic
 
 Finally we got around to snorkeling. The coral reefs weren't as beautiful as they were in Bali, but here we were able to see a lot cooler marine life. We saw several sea turtles just floating around looking for food. Occasionally they would swim up to the surface for some air before diving back down to the depths of the Andaman Sea in search of food. We also saw plenty of barracuda, jellyfish, and sharks. We saw a lot of sharks, actually. They were the smaller, not-so-dangerous reef sharks, so we weren’t in any real danger. They blended in with the color of the sea floor so we spent quite awhile floating silently in the water hoping to spot them. We ended up seeing more than 15 of them, which according to Champ, was more than he had ever seen. Guess we got lucky that day.
 
 Later that afternoon, after showering and changing clothes, we decided to make the hike up to one of the several “viewing points” atop the hills overlooking the rest of the island. At first it didn’t really look like much of a climb, but about halfway up we realized we would need another shower once we got back to the hostel. By the time we reached the top I was completely drenched in sweat. The view was nice, though. We got some nice pictures, and from our vantage point you could see just how small the island was.
 
-[caption id="attachment_333" align="alignnone" width="300" caption="Ko Phi Phi at sunset. In 2004, the tsunami actually came from both sides of the island (from the left and right in this pic), converging on top of the town in the middle. Everything was destroyed."][![](http://philiplebo.files.wordpress.com/2012/02/386522_10150394526722182_666082181_8696230_1720990630_n.jpg?w=300)](http://philiplebo.files.wordpress.com/2012/02/386522_10150394526722182_666082181_8696230_1720990630_n.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2012/02/386522_10150394526722182_666082181_8696230_1720990630_n.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2012/02/386522_10150394526722182_666082181_8696230_1720990630_n.jpg)  
+Ko Phi Phi at sunset. In 2004, the tsunami actually came from both sides of the island (from the left and right in this pic), converging on top of the town in the middle. Everything was destroyed.
 
 After showering and changing clothes for the second time, the sun had gone down and darkness had set across the island. We decided to see what kind of nightlife happened out on the beach. We had heard that it was quite crazy, but what we found far exceeded our expectations. The entire beach was lined with bars, each one blaring their own style of music (more AT40... can’t get away from it) and flashing strobe lights all over the place. There was jump rope, fire dancing, and tons of fireworks.
 

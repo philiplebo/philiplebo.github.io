@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/08/02/baby-steps-and-giant-leaps/
 slug: baby-steps-and-giant-leaps
 title: Baby Steps and Giant Leaps
 wordpress_id: 10
+category: [ blog, travel ]
 ---
 
 First post to the travel blog. I intended to have my first post be some sort of “Singapore 101” so you can have some background on Singapore and the surrounding area, or maybe a “Why I Chose Singapore” post, since that still seems to be a topic of mild interest. I'll probably get around to writing those once I actually get settled into my dorm in Singapore. For now, excessive amounts of time in airport lounges and on flights around the world means that the next few updates will just be tales of navigating the perils of international flights. Unfortunately, I am terrible at remembering to take pictures, so until I get better, there will be a distinct lack of visual aids. And since some of the posts are written while on flights without internet access, they will be posted after-the-fact, despite being written in the present tense.
@@ -55,7 +56,8 @@ And as I type this, major thunderstorms are rolling in to Atlanta. Sigh. We aren
 
 I'm back on the same plane. We got off once the storms hit because it was obvious we were not going to be departing any time soon. Missed our connection to Germany by a mile. Another booking agent told us we should fly to New York anyway and let the booking agents there figure out how to get us to Singapore, promising that they would put us up in a hotel in New York overnight. I'm skeptical.
 
-[caption id="" align="alignnone" width="423" caption="Waiting in an hour long line to talk to a booking agent."]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/283958_1858786919218_1527240045_31414283_2764122_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/283958_1858786919218_1527240045_31414283_2764122_n.jpg)  
+Waiting in an hour long line to talk to a booking agent.
 
 
 
@@ -65,7 +67,8 @@ So to recap: I left the house this morning at 5:45am, was at the airport by 6:30
 
 It just occurred to me that I've been typing “we” this entire time without ever clarifying who “we” is. I'm traveling with Judy, a fellow UT student who is also studying abroad in Singapore. Say hi, Judy!
 
-[caption id="attachment_11" align="alignnone" width="300" caption="My travel buddy Judy"][![Judy](http://philiplebo.files.wordpress.com/2011/08/img_1586.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1586.jpg)[/caption]
+[![Judy](http://philiplebo.files.wordpress.com/2011/08/img_1586.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1586.jpg)  
+My travel buddy Judy
 
 
 
@@ -81,15 +84,18 @@ If you've been following closely, you might notice that Tokyo to Singapore was t
 
 My carry-on bag has been quite the source of suffering and entertainment. It's a duffel bag but for some reason the shoulder strap has been removed, meaning I've been struggling to carry it by two measly handles that have scraped and burned my hands more than I'd like to admit. I decided to buy a luggage strap from one of the airport stores to use as a shoulder strap. First problem: said luggage strap was encased in that stupid, thick plastic that is impossible to open even with a good pair of scissors, and we were trapped inside a building where possession of any sharp objects will get you shipped off to Gitmo.
 
-[caption id="attachment_12" align="alignnone" width="300" caption="This must be a joke."][![](http://philiplebo.files.wordpress.com/2011/08/img_1588.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1588.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1588.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1588.jpg)  
+This must be a joke.
 
 After half an hour of pulling, ripping, slamming, biting, and futile attempts to stab the plastic with a pen, we somehow got it open. Second problem: the strap was about three times too big to fit inside the shoulder strap loops on my duffel bag. I had the genius idea to wrap the strap around the bag...
 
-[caption id="" align="alignnone" width="453" caption="I'm so awesome."]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/282088_1858788439256_1527240045_31414290_375973_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/282088_1858788439256_1527240045_31414290_375973_n.jpg)  
+I'm so awesome.
 
 Judy found a way to make it work, and I got an awesome looking chest strap to match. (This whole ordeal was much more hilarious than it should have been thanks to sleep deprivation-induced delirium.)
 
-[caption id="" align="alignnone" width="604" caption="Success!"]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/229735_1858788639261_1527240045_31414291_4048721_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/229735_1858788639261_1527240045_31414291_4048721_n.jpg)  
+Success!
 
 ------
 
@@ -103,6 +109,7 @@ I've ran out of things to do on this airplane. I've slept for several hours, rea
 
 I’m on the plane from Tokyo to Singapore now, it looks like we are actually going to make it! We had a few hours to kill in the airport so Judy and I went to a few shops. There are a lot of really cool knick-knacks to buy. We will definitely have to buy a few things on our way back stateside. We also got some real Japanese ramen, which was delicious. It set us back about $10 USD, though. Everything in Japan appears to be pretty expensive. We were a little disappointed because we flew into Tokyo-Narita airport rather than Haneda, which means we were too far away from downtown Tokyo to see any of the city proper. Next time, perhaps.
 
-[caption id="" align="alignnone" width="453" caption=""Take a picture of me in front of something!""]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/284430_1858792399355_1527240045_31414296_726387_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/284430_1858792399355_1527240045_31414296_726387_n.jpg)  
+"Take a picture of me in front of something!"
 
 For now, Singapore or bust.

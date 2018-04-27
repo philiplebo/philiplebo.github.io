@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/10/17/staring-down-volcanoes/
 slug: staring-down-volcanoes
 title: Staring Down Volcanoes
 wordpress_id: 236
+category: [ blog, travel ]
 ---
 
 [The train](http://philiplebo.wordpress.com/2011/10/12/now-where-was-i/) came at about 2:30am, an hour late. The train was not what we expected it to be. My original plan included an overnight trip on an executive-class train that had air conditioned cars, reclining seats, and was recommended by everyone I spoke to. Somehow, in our quest for penny-pinching madness, we decided to spend around $10 less and buy a ticket on another train. This other train was also “executive-class”, but as we quickly found out, price is a much better indicator of comfort than “executive-,” “business-,” or “economy-” class is.
@@ -45,7 +46,8 @@ Once we got closer to the mountains, the scenery changed drastically. The drive 
 
 Ahahaha, success!
 
-[caption id="attachment_247" align="alignnone" width="300" caption="On the ride up"][![](http://philiplebo.files.wordpress.com/2011/10/img_9627.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_9627.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_9627.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_9627.jpg)  
+On the ride up
 
 We got to our hotel around 3:00pm. We wanted to explore the crater as soon as we got there, so we stashed our bags in our rooms and took off for the crater’s edge. The sun was going to set in only two hours, and we did _not _want to be in the middle of an empty, unlit wasteland when the sun was down. It would almost certainly mean we would get lost, and we had heard that it was possible for temperatures in the crater to drop below freezing at night. We were on a mission, though. We were going to climb Bromo if it killed us.
 
@@ -53,21 +55,27 @@ We got to our hotel around 3:00pm. We wanted to explore the crater as soon as we
 
 A long time ago, a supermassive volcanic eruption resulted in the crater we were now standing in. The crater is several kilometers in diameter and almost entirely flat. At the center of the crater stand three smaller volcanoes, one of which is [Mount Bromo](http://en.wikipedia.org/wiki/Mount_Bromo). Bromo is a fully active volcano that actually erupted in January of this year, leaving a thick coat of ash on everything. The entire place looked like a wasteland, and almost felt as if we were walking across the surface of the moon. The previous eruption had killed off most nearby vegetation, although small plants and trees had begun to spring up here and there. The plants themselves told a story about the volcanoes. Trees and brush struggled to grow in this vast sea of sand and ash. Some of the trees, lucky enough to sprout up in the shadow of one of the mountains, were shielded from the volcano’s blast and grew much bigger than their smaller, less fortunate friends. The trees that died served as fertilizer for the new plants attempting to grow in their place, safe only until the next eruption. It was a story of growth, death, and regrowth. A cool sight.
 
-[caption id="attachment_237" align="alignnone" width="300" caption="Looking over the edge of the crater"][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0539.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_0539.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0539.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0539.jpg)  
+Looking over the edge of the crater
 
-[caption id="attachment_250" align="alignnone" width="300" caption="Random group pose at the base of Bromo"][![](http://philiplebo.files.wordpress.com/2011/10/p9191677.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9191677.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9191677.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9191677.jpg)  
+Random group pose at the base of Bromo
 
 [The Tengger Crater,](http://en.wikipedia.org/wiki/Bromo_Tengger_Semeru_National_Park) as it is called, is inhabited by a group of people known as the Tenggerese. Far separated from any other groups in Southeast Asia, these mountaineers seemed like people you would find in the Himalayas or the Andes, not in the middle of Indonesia. They rode horseback around the crater with packs of dogs following them around. Occasionally, one or two would gallop past us with their dogs not far behind.
 
-[caption id="attachment_242" align="alignnone" width="300" caption="Horse!"][![](http://philiplebo.files.wordpress.com/2011/10/img_7223.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_7223.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7223.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_7223.jpg)  
+Horse!
 
-[caption id="attachment_238" align="alignnone" width="300" caption="Walking across The Sea of Sand"][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0563.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_0563.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0563.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0563.jpg)  
+Walking across The Sea of Sand
 
-[caption id="attachment_240" align="alignnone" width="178" caption="Picturesque, no?"][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0726.jpg?w=178)](http://philiplebo.files.wordpress.com/2011/10/dsc_0726.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0726.jpg){:width="178px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0726.jpg)  
+Picturesque, no?
 
 The Tenggerese practice a subset of Hinduism and at the base of Mount Bromo is a Hindu temple, though it lays unused except for one celebration per year. As we passed the eerily empty temple, Bromo loomed above us, taunting us with occasional puffs of smoke. We were close enough to see the path leading up to the volcano’s rim, and we were racing against the sun to get there. We reached the beginning of the path soon enough, and other than a few locals selling overpriced drinks and snacks, we were the only people around. That is, until a group of 30 or so German tourists pulled up in a pack of jeeps.
 
-[caption id="attachment_243" align="alignnone" width="300" caption="Mount Bromo with Pura Luhur Poten, the Tenggerese temple, in the foreground"][![](http://philiplebo.files.wordpress.com/2011/10/img_7228.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_7228.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7228.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_7228.jpg)  
+Mount Bromo with Pura Luhur Poten, the Tenggerese temple, in the foreground
 
 As soon as we saw how many of them there were, we knew we had to get to the top of Bromo before they crowded the small, dangerous staircase. We took off along the path up the mountain as fast as we could. Tin climbed a small rock face, walking along the cliff above the main path. Alison and I reached the staircase first. From far away, nobody really realized how big this staircase was, but standing at the base of it revealed how daunting of a task it would be to climb. It was at least 250 very steep steps, and to make matters worse, the entire thing was covered in a foot of slippery volcanic ash.
 
@@ -81,13 +89,17 @@ You know those moments in life where you realize that every hardship you have ev
 
 I don’t know how long I stayed like that. Several seconds, perhaps minutes, I’m not sure. Eventually I turned around to grab Alison and pull her up to where I was. She had to see this, everyone had to see this. We made eye contact. She asked “What?” but I couldn’t respond. I was speechless. I grabbed her hand and pulled her off of the staircase, onto the small ledge that formed the rim of the volcano. Below us, I was expecting a small crater. Perhaps in the middle there would be a small hole that sulfur and smoke would occasionally rise out of. Instead there was an abyss, a pit the size of a city block that seemingly traveled to the center of the earth. The crater was huge and steep. Pulverized rock had fallen away from the sides of the crater, revealing veins of multicolored minerals glimmering faintly in the sunlight. The sharp drop into the pit was marked with jagged rocks and a steady stream of falling ash. Every few minutes, an enormous cloud of smoke would rise from somewhere within the depths of the Earth.
 
-[caption id="attachment_245" align="alignnone" width="225" caption="BROMO"][![](http://philiplebo.files.wordpress.com/2011/10/img_7261-e1318784252344.jpg?w=225)](http://philiplebo.files.wordpress.com/2011/10/img_7261.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7261-e1318784252344.jpg){:width="225px"}](http://philiplebo.files.wordpress.com/2011/10/img_7261.jpg)  
+BROMO
 
-[caption id="attachment_244" align="alignnone" width="300" caption="Bromo"][![](http://philiplebo.files.wordpress.com/2011/10/img_7249.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_7249.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7249.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_7249.jpg)  
+Bromo
 
-[caption id="attachment_251" align="alignnone" width="300" caption="The small ledge on the rim of Bromo"][![](http://philiplebo.files.wordpress.com/2011/10/p9191724.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9191724.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9191724.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9191724.jpg)  
+The small ledge on the rim of Bromo
 
-[caption id="attachment_252" align="alignnone" width="300" caption="Bromo Bromo Bromo"][![](http://philiplebo.files.wordpress.com/2011/10/p9191735.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9191735.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9191735.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9191735.jpg)  
+Bromo Bromo Bromo
 
 The others reached the top not too long after us. We ran around like little kids exploring a playground (probably not that smart, considering we were only one wrong step from falling into a gaping volcano). Some locals sold us small bouquets of flowers to throw into the pit. I assume it was custom to do that as an offering of some sort, or it may have just been a well-crafted way to get our money from us. I didn’t care. At one point, Tin accidentally dropped his sunglasses onto a ledge several feet below the rim. A local offered to climb down and get them for him for a dollar, and we accepted. We watched as he cautiously climbed to the ledge, almost slipping and falling down the side of the crater multiple times. What these people will do for a dollar…
 
@@ -95,7 +107,8 @@ Eventually we had to head back down. The sun was still racing against us, and we
 
 We got back to our hotel just as the sun was setting. Perfect timing. Between the nine of us, we spent a few hours cleaning the ash off in the hotel’s only two showers. After our trek, ash was covering _everything_. It’s almost been a month and I still don’t think I’ve gotten all of it out of my hair. The place we were staying was actually a German-run place somewhat known for their fantastic potato dishes. I have to say, dinner was pretty good. We all crashed soon after, though. We had planned another early morning climb up the side of a nearby mountain so that we could see the Tengger Crater at sunrise.
 
-[caption id="attachment_248" align="alignnone" width="300" caption="We hitched a ride to our hotel from a random shopkeep. He insisted we take a picture with his van (?)"][![](http://philiplebo.files.wordpress.com/2011/10/img_9823.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_9823.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_9823.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_9823.jpg)  
+We hitched a ride to our hotel from a random shopkeep. He insisted we take a picture with his van (?)
 
 **...and Far Above the Clouds**
 
@@ -105,17 +118,21 @@ It was cold. We were at an elevation of 9,000 feet and it was early in the morni
 
 The view from Penanjakan was almost as breathtaking as Bromo was. To the east we could see the sun slowly rising over the peaks of the nearby mountain ranges, and as the sun rose it revealed the calm, tiny villages and farms that covered the valley below. I was amazed at how many mountain peaks there were to our east. It was incredible that we were so high above them. And then the sun revealed that they were not, in fact, mountains. They were clouds. We were thousands of feet above the clouds.
 
-[caption id="attachment_246" align="alignnone" width="300" caption="Sunrise"][![](http://philiplebo.files.wordpress.com/2011/10/img_7333.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_7333.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_7333.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_7333.jpg)  
+Sunrise
 
 To our west were Tengger, Bromo, and Semeru in all of their glory. The view of the crater from here revealed just how incredibly huge it was. It was mind boggling that we had crossed that massive sea of sand on foot. Semeru puffed out little clouds of smoke every now and then, Bromo did the same, trying to compete with its much larger, much more dangerous counterpart. The Tenggerese temple sat quietly at the base of Bromo, and the sea of sand around it lay completely flat and motionless except for the occasional dust devil. The Tenggerese people believe that the Tengger crater is the center of all creation, and seeing it from the top of Penanjakan made it very apparent why. It was beautiful. It was really, really beautiful.
 
-[caption id="attachment_239" align="alignnone" width="300" caption="The Tengger Crater. Mount Bromo is the smaller volcano on the left, and Mount Semeru is the one in the back with the puff of smoke"][![](http://philiplebo.files.wordpress.com/2011/10/dsc_0671.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_0671.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/dsc_0671.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/dsc_0671.jpg)  
+The Tengger Crater. Mount Bromo is the smaller volcano on the left, and Mount Semeru is the one in the back with the puff of smoke
 
-[caption id="attachment_254" align="alignnone" width="200" caption="Obligatory UT pic"][![](http://philiplebo.files.wordpress.com/2011/10/utbromo.jpg?w=200)](http://philiplebo.files.wordpress.com/2011/10/utbromo.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/utbromo.jpg){:width="200px"}](http://philiplebo.files.wordpress.com/2011/10/utbromo.jpg)  
+Obligatory UT pic
 
 While wandering around the observation point, I unexpectedly ran into one of my roommates! He had left Singapore almost a week before I did and we had no idea that we would both be making the trip to Penanjakan. He had been missing for almost a week and I ran into him on the top of a mountain! Crazy. I love running into friends in strange places.
 
-[caption id="attachment_253" align="alignnone" width="300" caption="This guy goes missing for a week and shows up at the top of a mountain in Indonesia. He was also freezing because he didn't have a jacket. Oh Johannes..."][![](http://philiplebo.files.wordpress.com/2011/10/p9191797.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/p9191797.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/p9191797.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/p9191797.jpg)  
+This guy goes missing for a week and shows up at the top of a mountain in Indonesia. He was also freezing because he didn't have a jacket. Oh Johannes...
 
 We descended the mountain the same way we climbed up, and returned to our hotel for breakfast as it was only around 7:30am at this point. I had arranged for a driver (the same driver that picked us up from the train station, actually) to pick us up from our hotel around 9:30am and take us to Banyuwangi, from where we would take a ferry to Bali.
 
@@ -129,6 +146,7 @@ When we got to Banyuwangi, we unloaded from the van and I handed Iwa his payment
 
 It wasn’t long before we were on the ferry to Bali. We wandered around the boat a bit, and eventually stumbled across the bridge. The door was open and when the captain saw us, he invited us all inside. We talked with the crew a bit and the captain even let us sit in the captain’s chair and spin the wheel around a bit. He even handed me the microphone to make announcements to the whole vessel. After a bit of chit chat, he also helped us organize a driver at the port on Bali that could take us to our hotel for the night. Again, really nice people.
 
-[caption id="attachment_249" align="alignnone" width="300" caption="Captain for a second"][![](http://philiplebo.files.wordpress.com/2011/10/img_20110920_153806.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/img_20110920_153806.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/10/img_20110920_153806.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/10/img_20110920_153806.jpg)  
+Captain for a second
 
 The ferry ride was awesome. The breeze was amazing, the ocean was beautiful, and in front of us the incredible [Isle of the Gods, Bali](http://en.wikipedia.org/wiki/Bali), awaited our arrival.[![](http://philiplebo.files.wordpress.com/2011/10/dsc_07641.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/10/dsc_07641.jpg)

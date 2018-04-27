@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/08/09/catching-up/
 slug: catching-up
 title: Catching Up
 wordpress_id: 16
+category: [ blog, travel ]
 ---
 
 
@@ -30,21 +31,26 @@ We got to our hostel about 20 minutes later, immediately passing out in our beds
 
 For those that don’t know exactly what a hostel is, here is a quick rundown: Each room has several beds in it, this one having 8-10 beds per room. Unlike a hotel where you rent a room for yourself, in a hostel you only rent a bed and share the room with everyone else in it. Bathrooms and showers are shared as well. Sounds strange? It kind of was, but hostels are really popular in most places around the world, and they are extremely cheap. We stayed at this particular hostel for $16 a night, breakfast included. It was a very cool experience. Everyone is very friendly, and nearly all the guests are travelers just passing through. As such, everyone has cool stories to tell about their travels and everyone wants to hang out to see the city together.
 
-[caption id="attachment_17" align="alignnone" width="300" caption="From the roof of the hostel"][![](http://philiplebo.files.wordpress.com/2011/08/img_1600.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1600.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1600.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1600.jpg)  
+From the roof of the hostel
 
 Judy and I woke up the next day around 7:00 am, probably suffering from a bit of jet lag. We decided to set off and explore Singapore. First stop: a hawker centre.
 
 A hawker centre is basically a giant food court, and there are hundreds of them strewn around Singapore’s web of streets. When you first walk into a hawker centre, the sight and smell is overwhelming. At the hawker centre we went to, there were maybe 30 different food stalls (small, simple counters where someone takes your order and has a delicious hot plate of food in your hands within seconds) with each stall having 9 or 10 different dishes to choose from. There were literally hundreds of choices. We spent awhile trying to decide what to eat, but eventually Judy and I both decided on the most famous of Singaporean dishes: Hainanese Chicken Rice. Steamed chicken, white rice, and cucumbers served with dark soy sauce, chili sauce, and broth. It sounds simple, but when you mix it all together you get one of the best introductions to Singaporean food you can find. Delicious, fast, and cheap. The entire set only cost us $4 SGD (Singaporean dollars) each, or about $3 USD. Food here in general is very inexpensive. You will never end up paying more than $5 SGD for a full meal unless you are deliberately trying to spend money.
 
-[caption id="attachment_22" align="alignnone" width="300" caption="Chicken Rice!"][![](http://philiplebo.files.wordpress.com/2011/08/img_1614.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1614.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1614.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1614.jpg)  
+Chicken Rice!
 
-[caption id="attachment_24" align="alignnone" width="300" caption="One of the many food stalls"][![](http://philiplebo.files.wordpress.com/2011/08/img_1616.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1616.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1616.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1616.jpg)  
+One of the many food stalls
 
-[caption id="attachment_23" align="alignnone" width="300" caption="A small part of the hawker centre"][![](http://philiplebo.files.wordpress.com/2011/08/img_1615.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1615.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1615.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1615.jpg)  
+A small part of the hawker centre
 
 This hawker centre is where we also had our first encounter with one of the greatest things about the Singaporean food scene: the juice stall. At every hawker center, food court, or canteen, you will find a juice stall. For $1-2 SGD, a juice stall will take almost any fruit you can imagine and will turn it into an ice cold cup of deliciousness within seconds. Some juice stalls will even serve it with ground ice, making the most delicious slush you can imagine. Mango, lime, lemon, orange, kiwi, strawberry, apple, dragonfruit (my favorite so far), pear, papaya, watermelon, honeydew melon, pineapple, soursop, coconut, and any combination thereof… you name it and they will juice it for you. It’s like having a Jamba Juice inside every restaurant you go to, except the smoothie is ten times cheaper and twenty times better.
 
-[caption id="attachment_31" align="alignnone" width="300" caption="Strawberry Soursop juice. So delicious."][![](http://philiplebo.files.wordpress.com/2011/08/img_20110804_133024.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_20110804_133024.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_20110804_133024.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_20110804_133024.jpg)  
+Strawberry Soursop juice. So delicious.
 
 Judy and I were supposed to be on campus at 2:00 pm for registration, so we set course for the MRT (mass rapid transit) station after we ate. Now I have to admit that the only public transport systems I’ve ever seen are the pitiful DART and Capital Metro systems in Dallas and Austin, but the public transport system in Singapore is one of the most amazing things I have ever seen in my life. If it was up to me, the trains here would be considered the 8th Wonder of the World. Each train is about a football field long, holds almost 2,000 people (not exaggerating. Just to note: there will probably be many times in my blogging where I will quote very large numbers of people, and you may suspect that they are exaggerated, but I assure you that they are not. There are a **lot** of people here.), and because they are fully computer controlled, they are always on time. The fare system is also one of the most genius things I’ve ever used. You buy a little card that has an RFID chip inside it, and you can use ticketing machines to “top up” or put money on the card. Whenever you enter a train station or board a bus, you swipe your card, and then swipe it again whenever you exit the bus or leave the train station. And instead of paying a flat fee for each bus or train ride, you are charged based on how far you travel. Three kilometers will set you back about 75 cents, while a short ride down the street only costs five cents. It’s a simple, genius system that works better than anything I’ve ever seen or heard of. Actually, that should be the motto of Singapore: simple, genius, and just works.
 
@@ -54,13 +60,15 @@ Side note about the humidity: Holy crap it is humid here. The first day was like
 
 Anyway, back to campus. We queued for several hours to complete our formalities and obtain our student pass, the identity card that allows us to live in the country, but we were turned away and told we had to come back on another day. Annoying, but this line is where Judy and I met two very awesome people: Tin (pronounced “Teen”) from Croatia and Alison from Vancouver.
 
-[caption id="attachment_32" align="alignnone" width="300" caption="This is Tin. He also goes by Valentine. Keep your pants on, ladies."][![](http://philiplebo.files.wordpress.com/2011/08/img_1795.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_1795.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_1795.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_1795.jpg)  
+This is Tin. He also goes by Valentine. Keep your pants on, ladies.
 
 
 
 
 
-[caption id="attachment_35" align="alignnone" width="300" caption="The always wonderful Alison (photo courtesy Kelly Lee)"][![](http://philiplebo.files.wordpress.com/2011/08/aug-5-icalooking-for-bus-terminal-21.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/aug-5-icalooking-for-bus-terminal-21.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/aug-5-icalooking-for-bus-terminal-21.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/aug-5-icalooking-for-bus-terminal-21.jpg)  
+The always wonderful Alison (photo courtesy Kelly Lee)
 
 We spent some time getting to know each other, and afterwards ended up at a very random Chinese restaurant on campus. One of the ladies behind the counter shoved some sort of oyster in my face and told me to eat it. I did. It was alright.
 

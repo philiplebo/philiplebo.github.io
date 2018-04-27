@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/11/25/twenty-seven/
 slug: twenty-seven
 title: Twenty Seven
 wordpress_id: 306
+category: [ blog, travel ]
 ---
 
 I’m back from Thailand. It was another amazing trip. Amazing beaches, amazing jungles, and amazing people. But that’s not what this blog post is about. Thailand will come later, I promise. Right now there are other things to write about.

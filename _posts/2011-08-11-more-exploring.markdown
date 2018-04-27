@@ -7,13 +7,15 @@ link: https://philiplebo.wordpress.com/2011/08/11/more-exploring/
 slug: more-exploring
 title: More Exploring
 wordpress_id: 86
+category: [ blog, travel ]
 ---
 
 The rest of the week was extremely busy. From shopping, going out, exploring more of the city, and dealing with course registration, there was hardly any free time to be had. And the small amounts of free time that did pop up here and there were occupied by much needed rest.
 
 On more than one occasion my group of friends and I have found ourselves in restaurants where the staff have been slightly overzealous to cater to a group of foreigners. Nearly every local we have run into has gone out of their way to help us in any way possible. In one particular restaurant, the manager came to our table and hovered above us the entire time we were eating. He told us funny stories about Singapore and made sure that every bite we took was the best thing we had ever tasted. It was a weird experience, but he treated us like royalty. The food was delicious, too, and even though the restaurant was fancier than the places we had previously been eating at, it was still only $6 SGD per person.
 
-[caption id="" align="alignnone" width="504" caption="Typical tourist photo at the restaurant"]![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/251429_10150258620482546_539757545_7658227_3474406_n.jpg)[/caption]
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc6/251429_10150258620482546_539757545_7658227_3474406_n.jpg)  
+Typical tourist photo at the restaurant
 
 Wednesday night is Ladies’ Night in Singapore, which means that all bars, clubs, and pubs have free entrance and free drinks for all women. We (“we” being a huge group of international students) decided we were going to check out the nightlife of Singapore, but first we had to go to the mall and get some nicer clothes. For some reason, I only packed two shirts worthy of being worn on a night out, and one of them is a plaid country shirt. I realized once I pulled it out of my luggage that it would be completely useless to me for the next four months.
 
@@ -44,7 +46,8 @@ On Friday we went to the U.S. Embassy to clear up a few random questions we had 
 
 We got lost on our way back from the embassy and ended up at another random mall (I swear there is a shopping mall on every street corner here) and started looking for something to eat. Now by this point we had all been in Singapore for over a week and although we all love S’porean cuisine, several nights of drooling over all of the dishes from our respective home countries had us all missing some good ol’ western food. We stumbled across a food stand simply labeled “BBQ” where Zack and I spotted some corn dogs and barbecued chicken. We couldn’t resist.
 
-[caption id="attachment_95" align="alignnone" width="300" caption="Zack and his BBQ chicken"][![](http://philiplebo.files.wordpress.com/2011/08/img_20110805_1422071.jpg?w=300)](http://philiplebo.files.wordpress.com/2011/08/img_20110805_1422071.jpg)[/caption]
+[![](http://philiplebo.files.wordpress.com/2011/08/img_20110805_1422071.jpg){:width="300px"}](http://philiplebo.files.wordpress.com/2011/08/img_20110805_1422071.jpg)  
+Zack and his BBQ chicken
 
 We also ended up walking through a random street market on our way back. Tons and tons of random stuff. We saw one guy that sold nothing but old television remotes, although there were several others that sold typical street vendor stuff like watches, cell phones, or old laptops. I might need to go back to buy some cheap trinkets and souvenirs.
 

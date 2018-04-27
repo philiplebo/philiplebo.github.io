@@ -7,6 +7,7 @@ link: https://philiplebo.wordpress.com/2011/08/15/national-day-and-the-first-day
 slug: national-day-and-the-first-day-of-class
 title: National Day and the First Day of Class
 wordpress_id: 123
+category: [ blog, travel ]
 ---
 
 This past Tuesday was Singapore National Day. National Day, a celebration of Singapore’s independence from Malaysia, is one of Singapore’s biggest holidays. The entire city comes together at Marina Bay to watch an enormous parade, dances, and one of the most magnificent fireworks displays in the world. In addition to the National Day festivities, this past Tuesday was also Rag & Flag day, the day when all of the faculties from the university come together to promote charity by performing dances and constructing floats.
