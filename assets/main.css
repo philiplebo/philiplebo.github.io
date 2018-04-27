@@ -4,13 +4,6 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-a {
-	color: #76a2c7;
-}
-a:hover {
-	color: #68bee6;
-}
-
 .title {
 	text-align: center;
 	border-bottom: 1px solid #e0e0e0;
