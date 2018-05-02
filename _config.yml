@@ -1,7 +1,7 @@
 title: Philip Lebo
 email: philip@philiplebo.com
 description: About Philip Lebo
-url: "http://philiplebo.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://philiplebo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
