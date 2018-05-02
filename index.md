@@ -10,7 +10,7 @@ title: Philip Lebo
 <br>
 
 ### Who I <span style="color: #0059ff">am</span>
-I'm a technology consultant that enjoys affecting change at large companies through creative use of analytical, technical, and communication skills. I'm known as the go-to person for delivering high quality solutions to challenging problems, especially those those require quick learning and adaptability. I'm an effective team lead and client relationship manager with both strong technical capabilities and interpersonal skills. My areas of expertise include various software engineering skillsets and project and team management. I have extensive experience in cybersecurity and leading projects to make wide-scale changes that secure companies from hackers.
+I'm a technology consultant that enjoys affecting change at large companies through creative use of analytical, technical, and communication skills. I'm known as the go-to person for delivering high quality solutions to challenging problems, especially those those require quick learning and adaptability. I'm an effective team lead and client relationship manager with both strong technical capabilities and interpersonal skills. My areas of expertise include various software engineering skills and product management. I have extensive experience in cybersecurity and leading projects to make wide-scale changes that secure companies from hackers.
 
 ### Where I <span style="color: red">work</span>
 [PwC](https://www.pwc.com/us/en/cybersecurity.html) as Advisory Senior Associate (august 2013 - january 2017)  
