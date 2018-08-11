@@ -17,7 +17,7 @@ This is testing markdown formatting
 ##### H5
 code snippets!
 
-``` python
+~~~ python
 class Article(models.Model):
     """
     Model representing an article
@@ -39,6 +39,14 @@ class Article(models.Model):
 
     def __str__(self):
         return self.headline
-```
+~~~
+
+try ruby now
+~~~ ruby
+def what?
+  42
+end
+~~~
+
 
 weeeee
