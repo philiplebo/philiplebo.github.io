@@ -5,3 +5,4 @@ url: "https://philiplebo.com" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
