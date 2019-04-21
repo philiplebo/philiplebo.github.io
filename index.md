@@ -5,7 +5,7 @@ title: Philip Lebo
 <div class="title" markdown="1">
 # Philip Lebo
 #### tech consultant, programmer, traveler, airplane geek
-##### {{ site.email }}
+##### email: {{ site.email }}
 </div>
 <br>
 
