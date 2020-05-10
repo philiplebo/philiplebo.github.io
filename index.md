@@ -10,9 +10,12 @@ title: Philip Lebo
 <br>
 
 ### Who I <span style="color: #0059ff">am</span>
-I'm a technology consultant and developer that enjoys affecting change at large companies through creative use of analytical, technical, and communication skills. I'm known as the “bridge builder” between the technical and non-technical, helping companies to combine the best of both worlds to implement high quality solutions to challenging problems, especially those those requiring quick learning and adaptability. I'm an effective team lead and client relationship manager with both strong technical capabilities and interpersonal skills. I have extensive experience in information security and helping companies protect themselves from attackers.
+I'm a technology consultant and developer that enjoys affecting change at large companies through creative use of analytical, technical, and communication skills. I'm known as the “bridge builder” between the technical and non-technical, helping companies to combine the best of both worlds to implement high quality solutions to challenging problems, especially those those requiring quick learning and adaptability. I'm an effective team lead and client relationship manager with both strong technical capabilities and interpersonal skills. I have extensive experience in information security and building and scaling security solutions.
 
 ### Where I <span style="color: red">work</span>
+[Amazon Web Services](https://aws.amazon.com/) as Security Transformation Consultant (oct 2019 - present)
+* As part of AWS Professional Services, I help customers securely scale and deploy cloud infrastructure. I build security solutions, reference architecures, and best practice advice to help customers solve hard security challenges.
+
 [PwC](https://www.pwc.com/us/en/cybersecurity.html) as Advisory Senior Associate (august 2013 - january 2017)  
 Projects include:
 * Led Implementation of Enterprise Cybersecurity Software
@@ -23,10 +26,10 @@ Projects include:
     * Served as first line adviser to client, providing technical guidance and support during implementation and transition period
 
 * Developed National Professional Services Practice
-    * Chosen by national head of security to spearhead development of a new identity management service capability
+    * Spearheaded development of a new identity management service capability
     * Developed proposals and presentations for sales of over $2 million in professional services
     * Coordinated training and hiring of staff to accommodate growing needs of PwC’s Privileged Access Management practice
-    * Was go-to subject matter expert on identity management software, providing advice for solution architectures, training programs, and resourcing needs for internal and external deployments
+    * Subject matter expert on identity management software, providing advice for solution architectures, training programs, and resourcing needs for internal and external deployments
 
 * Developed Custom Analytics Tools to Support Enterprise Software Transformation
     * Identified opportunities to improve efficiency gaps in existing client workflows when analyzing security-related user activity
@@ -53,12 +56,13 @@ Projects include:
 ### What I <span style="color: orange">create</span>
 * [Alternate Sources](https://as.philiplebo.com) - Project that finds and shows alternate sources for a given news story
 
-### What I <span style="color: #a1c659">can do</span>
+### What I <span style="color: #a1c659">program</span>
+* AWS
 * Python
+* Elixir
 * SQL
 * .NET (ASP, VB, C#)
 * JavaScript
-* R
 * Arduino
 * Mandarin Chinese (beginner)
 * Spanish (intermediate)
