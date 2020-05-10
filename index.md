@@ -10,10 +10,10 @@ title: Philip Lebo
 <br>
 
 ### Who I <span style="color: #0059ff">am</span>
-I'm a technology consultant and developer that enjoys affecting change at large companies through creative use of analytical, technical, and communication skills. I'm known as the “bridge builder” between the technical and non-technical, helping companies to combine the best of both worlds to implement high quality solutions to challenging problems, especially those those requiring quick learning and adaptability. I'm an effective team lead and client relationship manager with both strong technical capabilities and interpersonal skills. I have extensive experience in information security and building and scaling security solutions.
+I'm a technology consultant and developer that enjoys affecting change at large companies through creative use of analytical, technical, and communication skills. I'm known as the “bridge builder” between the technical and non-technical, helping companies to combine the best of both worlds to implement high quality solutions to challenging problems, especially those those requiring quick learning and adaptability. I'm an effective team lead and client relationship manager with both strong technical capabilities and interpersonal skills. I have extensive experience in building and scaling information security solutions.
 
 ### Where I <span style="color: red">work</span>
-[Amazon Web Services](https://aws.amazon.com/) as Security Transformation Consultant (oct 2019 - present)
+[Amazon Web Services](https://aws.amazon.com/) as Security Transformation Consultant (october 2019 - present)
 * As part of AWS Professional Services, I help customers securely scale and deploy cloud infrastructure. I build security solutions, reference architecures, and best practice advice to help customers solve hard security challenges.
 
 [PwC](https://www.pwc.com/us/en/cybersecurity.html) as Advisory Senior Associate (august 2013 - january 2017)  
