@@ -52,10 +52,6 @@ Projects include:
     * Designed semester-long web development project requirements, including database design, desktop and mobile interface requirements, and programming standards
     * Assisted students with understanding and applying debugging and testing tools
 
-
-### What I <span style="color: orange">create</span>
-* [Alternate Sources](https://as.philiplebo.com) - Project that finds and shows alternate sources for a given news story
-
 ### What I <span style="color: #a1c659">program</span>
 * AWS
 * Python
